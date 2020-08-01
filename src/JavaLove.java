@@ -7,5 +7,7 @@ public class JavaLove {
         }else{
             System.out.println("dont sell");
         }
+        String c = (a+b == 30)?"hi":"bye";
+
     }
 }
