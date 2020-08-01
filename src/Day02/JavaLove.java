@@ -1,3 +1,5 @@
+package Day02;
+
 public class JavaLove {
     public static void main(String[] args) {
         int a = 10;
